@@ -1,0 +1,2 @@
+<button *ngIf="!authService.isAuth" (click)="auth()" mat-flat-button color="primary">Connect Wallet</button>
+<h1 *ngIf="authService.isAuth">Wallet Connected</h1>
