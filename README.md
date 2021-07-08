@@ -1,10 +1,10 @@
 # metamaskAuth Example Login With Metamask
 
-backend:
-npm install
+backend:<br>
+npm install<br>
 npm start
 
-client:
-npm install
-set backEndUrl client/src/environments/environment.ts
+client: <br>
+npm install<br>
+set backEndUrl client/src/environments/environment.ts<br>
 npm start
